@@ -1,5 +1,5 @@
 # blockchaintutorial
-Codes for Blockchain Tutorial GO *** E versões em Rust e Python.
+Codes for Blockchain Tutorial Go (+ versões em Rust e Python)
 
 ### Tutorial: Desenvolvendo um Blockchain Básico em Go
 
